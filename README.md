@@ -1,7 +1,8 @@
 # Zero-Risk & Zero-Waste Power Ecosystem
 
 An advanced theoretical and conceptual blueprint designed to convert municipal plastic waste into clean electrical energy while ensuring 100% human safety and zero toxic emissions.
-
+## 🎨 Project Visual Architecture (Human + AI Synergy)
+![Project EcoRoad Blueprint](a50b9b4f-560d-4fa1-9fd5-a898046c4c02.png
 ## Core Pillars of the Blueprint
 
 1. **Waste-to-Energy Thermal Conversion:** Replacing fossil fuels (coal) by cleanly utilizing plastic and public waste in controlled boilers to generate high-pressure steam for electricity.
